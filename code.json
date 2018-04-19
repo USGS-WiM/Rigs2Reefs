@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Rigs2Reefs",
+      "organization": "U.S. Geological Survey",
+      "description": "",
+      "version": "v0.0.0",
+      "status": ["Archival"],
+  
+      "permissions": {
+        "usageType": "openSource",
+        "licenses": [
+          {
+            "name": "Public Domain",
+            "URL": "https://github.com/USGS-WiM/Rigs2Reefs/blob/master/LICENSE.md"
+          }
+        ]
+      },
+  
+      "homepageURL": "https://wim.usgs.gov",
+      "downloadURL": "https://github.com/USGS-WiM/Rigs2Reefs/archive/master.zip",
+      "disclaimerURL": "https://github.com/USGS-WiM/Rigs2Reefs/blob/master/DISCLAIMER.md",
+      "repositoryUrl": "https://github.com/USGS-WiM/Rigs2Reefs",
+      "vcs": "git",
+  
+      "laborHours": null,
+  
+      "tags": [
+        "reefs"
+      ],
+  
+      "languages": [
+        "javascript"
+      ],
+  
+      "contact": {
+        "name": "Nick Estes",
+        "email": "njestes@usgs.gov"
+      },
+  
+      "date": {
+        "metadataLastUpdated": "2018-04-19"
+      }
+    }
+  ]
+  
